@@ -41,12 +41,6 @@ setupAndStartServer();
 
 
 
-
-
-
-
-
-
 // create and tickets service in postman with this and more example
 // {
 //     "subject":"this is ticket 1",
